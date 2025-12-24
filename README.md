@@ -121,7 +121,7 @@ Example:
 
 ---
 
-### 5️⃣ Feature Extraction Strategy
+### Feature Extraction Strategy
 
 ####  Cast
 - Only **top 3 cast members** are extracted
@@ -141,7 +141,7 @@ Example:
 
 ---
 
-### 6️⃣ Text Normalization
+###  Text Normalization
 
 #### Removing Spaces
 Science Fiction" → "ScienceFiction"
